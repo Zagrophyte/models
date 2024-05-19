@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey olive",
+  "wake_word": "hey_olive",
   "author": "Travis Rosenbaum",
   "website": "https://github.com/Zagrophyte",
   "model": "./hey_olive.tflite",
